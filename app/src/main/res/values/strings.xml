@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KinderSpell</string>
+    <string name="question_dog">dog</string>
+    <string name="question_cat">cat</string>
+    <string name="submit_button">submit</string>
+    <string name="skip_button">skip</string>
+    <string name="answer_placeholder">spell it</string>
+</resources>

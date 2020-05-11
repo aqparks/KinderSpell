@@ -1,0 +1,2 @@
+rootProject.name='KinderSpell'
+include ':app'
